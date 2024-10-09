@@ -9,7 +9,7 @@ here is the link that refers to our Dataset : https://www.kaggle.com/c/house-pri
 1.Download all the four files from the website<br>
 2.Upload them to your drive in a folder called Datasets to make things easier.<br>
 3.Then open Google Collab<br>
-4.Add a Code cell above the given code in the ipynb file to mount your Google drive.<br>
+4.Add a Code cell above and load dataset from drive.<br>
 
 <h1> Code Execution</h1>
 
